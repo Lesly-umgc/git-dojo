@@ -1,2 +1,2 @@
 model: churn-xgb
-threshold: 0.50
+threshold: 0.62
